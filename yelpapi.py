@@ -1,0 +1,3 @@
+get_my_key = "SjkDD687cT9y7Xt7LQm0ZwFCTxDLc3r3y4pZIjUcviBQOlMa3YIRfzVt48lHljrvvZvUEnrF9TajrFthSBuspkL036EXfZuMz3KY_CROM1ORYa9ODytR2f3KfyWcXHYx"
+
+gkey = "AIzaSyAjiCbxPzJyFmhvLNT4gr4dz7JM-VlulbY"
