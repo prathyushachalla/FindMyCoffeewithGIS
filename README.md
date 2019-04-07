@@ -17,5 +17,7 @@ Chicago Neighborhood: based on Zip Code
 
 ### Questions: 
 Which neighborhood(s) in Chicago currently have the most coffee-shop competition? 
+
 Does the population of an area in Chicago impact the success of a coffee shop?
+
 How can coffee-shop owners predict where to open their next location/new shop in Chicago?
