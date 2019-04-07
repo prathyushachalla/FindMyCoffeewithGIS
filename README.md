@@ -12,7 +12,9 @@ After the global economic crisis that hit in 2008, business owners are trying to
 
 ### Definitions: 
 ‘Popular’ Coffee Shop: More than 50 Yelp Reviews with an Average Rating of 3.5 stars or higher (out of 5 total stars possible)
+
 ‘Ready to Close’ Coffee Shop: Average Rating of 2 or fewer stars on Yelp (out of 5 total stars possible)
+
 Chicago Neighborhood: based on Zip Code 
 
 ### Questions: 
