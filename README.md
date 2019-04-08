@@ -27,6 +27,19 @@ How can coffee-shop owners predict where to open their next location/new shop in
 ### Final integrated project: 
 1. FindMyCoffee_DataExploration.ipynb	
 "This is convereted notebool to --markdown format" "ipython nbconvert --to FORMAT notebook.ipnyb"
+
 2. FindMyCoffee_Final.ipynb
 " This file is a filter of top locations based on Visibility and popularity"
-3.
+
+3. KB_US_Zip_Codes.csv
+" Zip codes coordinating with latitudes and Longitudes data"
+
+4.Population_by_Zip.csv
+" Population by Zip codes data"
+
+5. yelpapi.py
+" Key for Yelp Fusion API"
+
+6.gkey.py
+" Key for gmaps API"
+
