@@ -41,10 +41,10 @@ How can coffee-shop owners predict where to open their next location/new shop in
 
 ### Data Sources: 
 
-#Yelp API Fusion API
-#Google Maps Platform 
-#“US Zip Codes from 2013 Government Data” -  CSV by Eric Hurst - Data from the US Census 
-#“US Census Population by Zip Code” - CSV by The Splitwise Blog - Data form the US Census
+##Yelp API Fusion API
+##Google Maps Platform 
+##“US Zip Codes from 2013 Government Data” -  CSV by Eric Hurst - Data from the US Census 
+##“US Census Population by Zip Code” - CSV by The Splitwise Blog - Data form the US Census
 
 
 
