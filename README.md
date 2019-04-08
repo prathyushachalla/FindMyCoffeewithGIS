@@ -23,3 +23,10 @@ Which neighborhood(s) in Chicago currently have the most coffee-shop competition
 Does the population of an area in Chicago impact the success of a coffee shop?
 
 How can coffee-shop owners predict where to open their next location/new shop in Chicago?
+
+### Final integrated project: 
+1. FindMyCoffee_DataExploration.ipynb	
+"This is convereted notebool to --markdown format" "ipython nbconvert --to FORMAT notebook.ipnyb"
+2. FindMyCoffee_Final.ipynb
+" This file is a filter of top locations based on Visibility and popularity"
+3.
